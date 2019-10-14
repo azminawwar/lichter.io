@@ -335,3 +335,5 @@ export default {
     }
   }
 </style>
+
+<a class="font-bold text-2xl github-link" href="https://github.com/users/azminawwar/sponsorship" rel="noopener">GitHub Sponsorship profile</a>. 
